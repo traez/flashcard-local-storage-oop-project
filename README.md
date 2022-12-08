@@ -28,8 +28,8 @@ This is a solution to the [FlashCard OOP JavaScript Project on JS Beginners](htt
 
 ### Links
 
-- Solution URL: [https://github.com/traez/shopping-grocery-cart](https://github.com/traez/shopping-grocery-cart)
-- Live Site URL: [https://traez.github.io/shopping-grocery-cart/](https://traez.github.io/shopping-grocery-cart/)
+- Solution URL: [https://github.com/traez/flashcard-local-storage-oop-project](https://github.com/traez/flashcard-local-storage-oop-project)
+- Live Site URL: [https://traez.github.io/flashcard-local-storage-oop-project/](https://traez.github.io/flashcard-local-storage-oop-project/)
 
 ## My process
 
@@ -43,7 +43,7 @@ This is a solution to the [FlashCard OOP JavaScript Project on JS Beginners](htt
 
 ### What I learned
 
-1) More practical and comfortable use of local storage and object orientation.  
+More practical and comfortable use of local storage and object orientation.  
 
 ### Continued development
 
